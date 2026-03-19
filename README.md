@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project consists of a modular **ETL (Extract, Transform, Load) pipeline** designed to ingest, normalize, and unify sales data from disparate sources (JSON and CSV).
 
-The goal was to solve a real-world data integration challenge where two corporate branches ("Empresa A" and "Empresa B") utilized different systems with incompatible schemas. The pipeline standardizes column names, handles missing data gracefully, and consolidates thousands of records into a single source of truth for downstream analytics.
+The goal was to solve a real-world data integration challenge where two corporate branches ("Empresa A" and "Empresa B") utilized different systems with incompatible schemas. The pipeline standardizes column names, handles missing data, and consolidates thousands of records into a single source of truth for downstream analytics.
 
 ## 🚀 Key Features
 
